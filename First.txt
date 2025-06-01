@@ -1,0 +1,7 @@
+
+git init
+vi First.txt
+esc
+:wq
+cat First.txt   // it is used to check what conent is there inside the file 
+git add First.txt
